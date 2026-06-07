@@ -1,0 +1,15 @@
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\dto\LogStatsResponse.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\controller\AlertController.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\dto\LogSearchRequest.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\repository\LogEntryRepository.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\controller\LogController.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\service\AlertService.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\config\KafkaConfig.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\LoggingServiceApplication.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\repository\AlertRuleRepository.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\service\LogService.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\model\AlertRule.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\consumer\LogEventConsumer.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\exception\GlobalExceptionHandler.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\config\MongoConfig.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\logging-service\src\main\java\com\hacisimsek\logging\model\LogEntry.java

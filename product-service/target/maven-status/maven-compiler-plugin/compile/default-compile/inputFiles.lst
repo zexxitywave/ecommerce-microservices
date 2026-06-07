@@ -1,0 +1,15 @@
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\dto\CategoryRequest.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\repository\CategoryRepository.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\exception\GlobalExceptionHandler.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\model\Product.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\service\CategoryService.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\model\Category.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\controller\CategoryController.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\controller\ProductController.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\dto\ProductRequest.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\repository\ProductRepository.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\ProductServiceApplication.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\model\ProductStatus.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\dto\ProductStatusUpdateRequest.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\service\ProductService.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\product-service\src\main\java\com\hacisimsek\product\dto\ProductResponse.java

@@ -1,0 +1,13 @@
+com\hacisimsek\wishlist\dto\WishlistItemResponse.class
+com\hacisimsek\wishlist\config\KafkaConfig.class
+com\hacisimsek\wishlist\config\RestTemplateConfig.class
+com\hacisimsek\wishlist\dto\ProductSnapshot.class
+com\hacisimsek\wishlist\dto\WishlistItemResponse$WishlistItemResponseBuilder.class
+com\hacisimsek\wishlist\controller\WishlistController.class
+com\hacisimsek\wishlist\model\WishlistItem.class
+com\hacisimsek\wishlist\repository\WishlistRepository.class
+com\hacisimsek\wishlist\WishlistServiceApplication.class
+com\hacisimsek\wishlist\exception\GlobalExceptionHandler.class
+com\hacisimsek\wishlist\model\WishlistItem$WishlistItemBuilder.class
+com\hacisimsek\wishlist\dto\AddToWishlistRequest.class
+com\hacisimsek\wishlist\service\WishlistService.class

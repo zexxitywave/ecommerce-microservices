@@ -1,0 +1,11 @@
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\config\RestTemplateConfig.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\exception\GlobalExceptionHandler.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\model\WishlistItem.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\controller\WishlistController.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\dto\AddToWishlistRequest.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\dto\ProductSnapshot.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\config\KafkaConfig.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\repository\WishlistRepository.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\dto\WishlistItemResponse.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\service\WishlistService.java
+C:\Users\jagdish\Downloads\Telegram Desktop\spring-boot-projects\ecommerce-microservices-main\wishlist-service\src\main\java\com\hacisimsek\wishlist\WishlistServiceApplication.java
